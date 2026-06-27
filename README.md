@@ -1,4 +1,4 @@
-#🤖 Tracking_Bot: AI-Powered Vision & Hardware Control System
+# 🤖 Tracking_Bot: AI-Powered Vision & Hardware Control System
 #Overview
 Tracking_Bot demonstrates a robust software-to-hardware pipeline bridging Python applications with an Arduino UNO. By utilizing pyfirmata2, the system establishes a seamless serial connection to control physical actuators (servos/buzzers) using standard Python scripts.
 
@@ -32,7 +32,7 @@ Local LLM Integration: Connects to a local Ollama server (TinyLlama/Qwen) via RE
 TTS: Uses pyttsx3 for audio feedback, creating a fully interactive loop. 
 
 
-#⚙️ Setup
+# ⚙️ Setup
 To run this project, you must first flash your Arduino UNO with the StandardFirmata protocol:
 
 Open the Arduino IDE.
