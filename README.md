@@ -42,5 +42,6 @@ Go to File > Examples > Firmata > StandardFirmata.
 Upload to your Arduino UNO.
 
 On your IDE (Vs code Pycham etc..) Open terminal 
-enter 
-$ pip install pyfirmata2 opencv-python numpy cvzone mediapipe requests sounddevice pyttsx3 vosk $
+enter .
+
+**pip install pyfirmata2 opencv-python numpy cvzone mediapipe requests sounddevice pyttsx3 vosk**
